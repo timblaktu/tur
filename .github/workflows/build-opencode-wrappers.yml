@@ -175,7 +175,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./repo
-          force_orphan: true
+          keep_files: true  # Keep existing packages (opencode, claude-*)
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
 
