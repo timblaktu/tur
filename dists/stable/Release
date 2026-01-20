@@ -5,4 +5,4 @@ Codename: stable
 Architectures: all aarch64 arm i686 x86_64
 Components: main
 Description: Personal Termux packages (Claude Code wrappers)
-Date: Tue, 20 Jan 2026 04:40:25 +0000
+Date: Tue, 20 Jan 2026 04:40:43 +0000
